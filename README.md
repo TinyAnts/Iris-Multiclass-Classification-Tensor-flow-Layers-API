@@ -53,9 +53,6 @@ Iris Multiclass Classification | Tensor flow Layers API
 7. Attribute Information:
    1. sepal length in cm
    2. sepal width in cm
-   
-   ## Method Used:
-generally, most iris dataset problems will be solved by k-means, decision tree, random forest, naive bayes methods, but here we will solve them with DEEP NEURAL NETWORK using the layers api of tensorflow! This method will out perform all the other techniques for sure! we can use Neural Network for almost any problems and makes our life easier!! 
    3. petal length in cm
    4. petal width in cm
    5. class: 
@@ -73,3 +70,8 @@ Summary Statistics:
     petal width: 0.1  2.5   1.20  0.76    0.9565  (high!)
 
 9. Class Distribution: 33.3% for each of 3 classes.
+
+
+
+   ## Method Used:
+generally, most iris dataset problems will be solved by k-means, decision tree, random forest, naive bayes methods, but here we will solve them with DEEP NEURAL NETWORK using the layers api of tensorflow! This method will out perform all the other techniques for sure! we can use Neural Network for almost any problems and makes our life easier!! 
